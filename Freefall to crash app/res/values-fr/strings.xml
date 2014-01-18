@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Armée d\'un accident par rapport à une chute libre</string>
+    <string name="action_settings">réglages</string>
+    <string name="hello_world">Bonjour tout le monde!</string>
+    <string name="title_activity_extra">informations supplementaires</string>
+    <string name="goBack">Retour</string>
+    <string name="goToExtraDetails">Aller au extras</string>
+    <string name="title_activity_choices">choix</string>
+    <string name="title_activity_get_data_back">Entrez la distance de chute libre</string>
+    <string name="intro">Un accident de voiture n\'est jamais bon, les forces en présence peut être dévastateur, découvrez comment frapper un objet solide est comparable à la chute libre </string>
+    <string name="inputKm">Vitesse d\'entrée (km)</string>
+    <string name="goToReverse">entrée en chute libre</string>
+    <string name="equivFreeFall">La distance de chute libre (mètres)</string>
+    <string name="kmhOutput">Sortie vitesse (Km)</string>
+    <string name="freeFallInputString">La distance de chute libre</string>
+    <string name="visitCount">Vous avez déjà visité cette page</string>
+    <string name="details">Votre nom est (Passez à supplémentaire et entrez le nom)</string>
+    <string name="userName">entrer un nom d\'</string>
+    <string name="saftyInfo">Consignes de sécurité</string>
+
+</resources>

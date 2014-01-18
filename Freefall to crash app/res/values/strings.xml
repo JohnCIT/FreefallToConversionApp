@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Force of a crash compared to a free fall</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_extra">Extra information</string>
+    <string name="goBack">Go back</string>
+    <string name="goToExtraDetails">Go to extras</string>
+    <string name="title_activity_choices">Choices</string>
+    <string name="title_activity_get_data_back">Enter free-fall distance</string>
+    <string name="intro">A car crash is never good, the forces involved can be devastating, find out how hitting a solid object is comparable to free falling </string>
+    <string name="inputKm">Input speed(km)</string>
+    <string name="goToReverse">Enter free-fall distance</string>
+    <string name="equivFreeFall">Free-fall distance (Metres)</string>
+    <string name="kmhOutput">Speed output (Km)</string>
+    <string name="freeFallInputString">Free-fall distance</string>
+    <string name="visitCount">You have visited this page</string>
+    <string name="details">Your name is (Go to extra and enter name)</string>
+    <string name="userName">Enter user name</string>
+    <string name="saftyInfo">Safety information</string>
+
+</resources>
